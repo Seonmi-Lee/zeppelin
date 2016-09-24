@@ -62,4 +62,4 @@ If you wish to help us and contribute to Zeppelin Documentation, please look at 
  3. copy `zeppelin/docs/_site` to `asf-zeppelin/site/docs/[VERSION]`
  4. ```svn commit```
 
-LeeSeonmi
+Lee-Seonmi
